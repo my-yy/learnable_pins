@@ -37,3 +37,10 @@ You also can use [wandb](https://wandb.ai) to view the training process:
 Because the Backbone structure and test script are different from the original paper, the scores behave much higher.
 ![](results.png)
 
+
+## Paper Explanation (Chinese Language) 
+[【音脸关系学习】：Learnable Pins 论文解读与代码复现](https://zhuanlan.zhihu.com/p/557632629)
+
+
+## Other Resources
+[Voice Face Association Learning Papers & Codes](https://github.com/my-yy/vfal_papers) 
